@@ -14,14 +14,14 @@ To run the code, you will need:
 **Information on where the pdb files are found**: I went onto UniProt and typed in "tafazzin" in the search bar. Then, I clicked on the entry that I wanted to view or download the pdb file from. I scrolled down to the "Structure" heading and downloaded the pdb file (most were from AlphaFold).
 
 **List of files**
-- TAZ.fasta --> fasta file containing all the analyzed tafazzin sequences and related acyltransferase sequences. Used for multiple sequence alignment and phylogenetic clustering
-- TAZ_human.pdb --> pdb file containing information to construct a 3D protein structure of the human tafazzin (exon 5 deletion) protein. Used for structural bioinformatics and 3D protein analysis
-- TAZ_mouse.pdb --> pdb file containing information to construct a 3D protein structure of the mouse tafazzin protein. Used for structural bioinformatics and 3D protein analysis
-- TAZ_chimp.pdb --> pdb file containing information to construct a 3D protein structure of the chimpanzee tafazzin protein. Used for structural bioinformatics and 3D protein analysis
-- TAZ_fly.pdb --> pdb file containing information to construct a 3D protein structure of the fruit fly tafazzin protein. Used for structural bioinformatics and 3D protein analysis
-- TAZ_yeast.pdb --> pdb file containing information to construct a 3D protein structure of the yeast tafazzin protein. Used for structural bioinformatics and 3D protein analysis
-- TAZ_zebrafish.pdb --> pdb file containing information to construct a 3D protein structure of the zebrafish tafazzin protein. Used for structural bioinformatics and 3D protein analysis
-- GPAT1.pdb --> pdb file containing information to construct a 3D protein structure of the human GPAT1 protein. Used for structural bioinformatics and 3D protein analysis
-- hTFPa.pdb --> pdb file containing information to construct a 3D protein structure of the human TFPa protein. Used for structural bioinformatics and 3D protein analysis
-- LGPAT1.pdb --> pdb file containing information to construct a 3D protein structure of the human LGPAT1 protein. Used for structural bioinformatics and 3D protein analysis
-- PLCD.pdb --> pdb file containing information to construct a 3D protein structure of the human PLCD protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ.fasta* --> fasta file containing all the analyzed tafazzin sequences and related acyltransferase sequences. Used for multiple sequence alignment and phylogenetic clustering
+- *TAZ_human.pdb* --> pdb file containing information to construct a 3D protein structure of the human tafazzin (exon 5 deletion) protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ_mouse.pdb* --> pdb file containing information to construct a 3D protein structure of the mouse tafazzin protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ_chimp.pdb* --> pdb file containing information to construct a 3D protein structure of the chimpanzee tafazzin protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ_fly.pdb* --> pdb file containing information to construct a 3D protein structure of the fruit fly tafazzin protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ_yeast.pdb* --> pdb file containing information to construct a 3D protein structure of the yeast tafazzin protein. Used for structural bioinformatics and 3D protein analysis
+- *TAZ_zebrafish.pdb* --> pdb file containing information to construct a 3D protein structure of the zebrafish tafazzin protein. Used for structural bioinformatics and 3D protein analysis
+- *GPAT1.pdb* --> pdb file containing information to construct a 3D protein structure of the human GPAT1 protein. Used for structural bioinformatics and 3D protein analysis
+- *hTFPa.pdb* --> pdb file containing information to construct a 3D protein structure of the human TFPa protein. Used for structural bioinformatics and 3D protein analysis
+- *LGPAT1.pdb* --> pdb file containing information to construct a 3D protein structure of the human LGPAT1 protein. Used for structural bioinformatics and 3D protein analysis
+- *PLCD.pdb* --> pdb file containing information to construct a 3D protein structure of the human PLCD protein. Used for structural bioinformatics and 3D protein analysis
