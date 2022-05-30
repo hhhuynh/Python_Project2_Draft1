@@ -5,7 +5,7 @@
 
 To run the code, you will need:
 
-1) The Jupyter Notebook
+1) The Jupyter Notebook (Project2C.ipynb)
 2) The fasta file containing the TAZ and related acyltransferase amino acid sequences
 3) The pdb files for each TAZ ortholog and related acyltransferase
 
